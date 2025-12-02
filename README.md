@@ -22,8 +22,8 @@ A small but clean generic linked list implementation:
 
 ## 🔹 Part 4: Ft_dprintf Function
 A custom implementation of the C printf-inspired function.
-Supports formatted output with conversions like: %c, %s, %p, %d, %i, %u, %x, %X
-Includes own buffering, numeric base conversions, and pointer formatting, without using the real printf.
+- Supports formatted output with conversions like: %c, %s, %p, %d, %i, %u, %x, %X
+- Includes own buffering, numeric base conversions, and pointer formatting, without using the real printf.
 
 ## 🔹 Part 5: get_next_line Function
 A line-by-line file reading function that returns the next line from a file descriptor at each call.
